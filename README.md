@@ -1,2 +1,2 @@
 # ezLCD-Graphics
-Lua demo programs that show how to draw, clear scree and double buffer drawing.
+Lua demo programs that show how to draw, clear screen and double buffer drawing.
